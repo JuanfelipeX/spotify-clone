@@ -18,7 +18,8 @@ Recoil Docs
 
 ![Screenshot 2023-07-31 150207](https://github.com/JuanfelipeX/spotify-clone/assets/72418729/c3479306-e257-485c-98c7-6dfb14bcc0ae)
 
-![Uploading Screenshot 2023-07-31 150130.png…]()
+
+![Screenshot 2023-07-31 150130](https://github.com/JuanfelipeX/spotify-clone/assets/72418729/ee0534da-cfde-4e8b-b204-888cca6f3285)
 
 This example is the final project done on my YouTube course. I use the new state management library created by facebook's engineers: [Recoil](https://recoiljs.org/).
 
