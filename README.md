@@ -2,7 +2,18 @@
 
 https://www.youtube.com/watch?v=ZtfUO4syFLg&list=PL4WxketMZHyeuw3zBaswBeVSHP0ikllGF&index=7
 
+Código del proyecto
+- https://github.com/juanortiz10/react-...
 
+Diseño Figma
+- https://www.figma.com/file/eCwTwbFyMR...
+
+Spotify for developers
+- https://developer.spotify.com/documen...
+- https://developer.spotify.com/console/
+
+Recoil Docs
+- https://recoiljs.org/
 
 This example is the final project done on my YouTube course. I use the new state management library created by facebook's engineers: [Recoil](https://recoiljs.org/).
 
