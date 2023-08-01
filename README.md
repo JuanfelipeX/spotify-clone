@@ -15,6 +15,11 @@ Spotify for developers
 Recoil Docs
 - https://recoiljs.org/
 
+
+![Screenshot 2023-07-31 150207](https://github.com/JuanfelipeX/spotify-clone/assets/72418729/c3479306-e257-485c-98c7-6dfb14bcc0ae)
+
+![Uploading Screenshot 2023-07-31 150130.png…]()
+
 This example is the final project done on my YouTube course. I use the new state management library created by facebook's engineers: [Recoil](https://recoiljs.org/).
 
 The project is build with [React.Js](https://reactjs.org/) using  [Create React App](https://github.com/facebook/create-react-app). 
