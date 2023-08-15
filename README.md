@@ -22,8 +22,13 @@ Recoil Docs
 
 ![Screenshot 2023-07-31 150207](https://github.com/JuanfelipeX/spotify-clone/assets/72418729/c3479306-e257-485c-98c7-6dfb14bcc0ae)
 
+![image](https://github.com/JuanfelipeX/spotify-clone/assets/72418729/36f47996-0561-4de3-95a0-e2aabd9968ec)
 
-![Screenshot 2023-07-31 150130](https://github.com/JuanfelipeX/spotify-clone/assets/72418729/ee0534da-cfde-4e8b-b204-888cca6f3285)
+![image](https://github.com/JuanfelipeX/spotify-clone/assets/72418729/25421f7b-a018-43a0-b3b7-fd2e97642e69)
+
+![image](https://github.com/JuanfelipeX/spotify-clone/assets/72418729/239ae6c5-5a1a-4f4c-8e32-d523a3ec85b1)
+
+![image](https://github.com/JuanfelipeX/spotify-clone/assets/72418729/7211d24e-a6e7-4129-92cc-34f989dda11b)
 
 This example is the final project done on my YouTube course. I use the new state management library created by facebook's engineers: [Recoil](https://recoiljs.org/).
 
